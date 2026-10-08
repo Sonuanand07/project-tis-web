@@ -1,0 +1,26 @@
+{
+  "name": "tis-homepage-redesign",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "framer-motion": "^11.0.0",
+    "lucide-react": "0.383.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.3"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "description": "Animated homepage redesign for Tulas International School",
+  "license": "MIT"
+}
